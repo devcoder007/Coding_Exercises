@@ -34,7 +34,7 @@ The easiest way is via pip or easy_install::
 
     pip install fedex
 
-Quick Start
+Start Quickly
 -----------
 
 - Clone this repository.
