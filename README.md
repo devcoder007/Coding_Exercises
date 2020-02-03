@@ -6,7 +6,7 @@ This Repository contains coding exercises asked during interview phase.
 
 Take a clone of this repo in your local machine using https://github.com/devcoder007/Coding_Exercises.git
 
-After Cloning Process below mentioned steps to get started:
+After Cloning, execute below mentioned steps to get started:
 * Checkout to a new branch ```git checkout -b <your_branch_name>```
 * Edit/Add the contents you want to in a folder named with you name. If folder is not present then create it in the main directory
 * check the status using ```git status```
