@@ -14,7 +14,7 @@ After Cloning, execute below mentioned steps to get started:
 * Commit your changes using ```git commit -m "<commit_message>"```
 * Push changes to global repo using ```git push -u origin <your_branch_name>```
 
-## Naming Convention
+## Naming Conventions
 
 * Commit_message will manifest the code functionality. So that if requires we can search code by name
 * Make branch name after your name, and suffix three digits ```Ex NAME-001```
