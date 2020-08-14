@@ -12,7 +12,7 @@ After Cloning, execute below mentioned steps to get started:
 * check the status using ```git status```
 * Add your changes using ```git add .```
 * Commit your changes using ```git commit -m "<commit_message>"```
-* Push changes to global repo using ```git push -u origin <your_branch_name>```
+* Push change to global repo using ```git push -u origin <your_branch_name>```
 
 ## Naming Conventions
 
