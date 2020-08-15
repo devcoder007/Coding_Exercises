@@ -1,4 +1,4 @@
-# Interview Coding Question
+# Interview Coding Questions
 
 This Repository contains coding exercises asked during interview phase.
 
