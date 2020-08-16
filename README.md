@@ -1,6 +1,7 @@
 # Interview Coding Question
 
 This Repository contains coding exercises asked during interview phase.
+FIRST PHASE TESTING
 
 ## Steps to get started:
 
